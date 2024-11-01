@@ -14,7 +14,7 @@ Main features are:
 
 [quote]
 [h1]For new features and/or debugging, you can subscribe to the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1400711138]beta version[/url][/h1]
-[b]Tested on C:S version 1.17.0-f3[/b]
+[b]Tested on C:S version 1.18.1-f3[/b]
 [/quote]
 
 [quote]
@@ -149,7 +149,7 @@ If there's no issue for the thing you'd like to work on, feel free to open a new
 [h1](v3.*) Thanks to[/h1]
 [list]
 [*][url=https://steamcommunity.com/profiles/76561197968592937]algernon[/url] for his awesome Commons library
-[*][url=https://steamcommunity.com/id/chameleon_tbn/]Chamëleon TBN[/url] for being so helpful during testing
+[*][url=https://steamcommunity.com/id/chameleon_tbn/]Chamï¿½leon TBN[/url] for being so helpful during testing
 [*][url=https://steamcommunity.com/profiles/76561198063330220]macsergey[/url] for his dark magic on how to fix some annoying issues
 [*][url=https://steamcommunity.com/profiles/76561199119951016]Mbyron26[/url] for the fantastic preview images on the Workshop
 [/list]
