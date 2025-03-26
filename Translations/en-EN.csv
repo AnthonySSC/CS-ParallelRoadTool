@@ -15,7 +15,7 @@
 "HARMONY_MOD_CONFLICT","Another mod may be trying to apply a conflicting Harmony patch","Possible cause of Harmony error - two mods trying to patch the same thing at once."
 "WRONG_VERSION","Parallel Road Tool is not compatible with this game version.","Warning displayed on startup if an incompatible game version is detected"
 "SHUT_DOWN","As a safety measure, the mod has shut down and will not operate.","Warning displayed on startup if an incompatible game version is detected"
-"MOD_DESCRIPTION","Helps you easily drawing parallel and stacked networks"
+"MOD_DESCRIPTION","Helps you easily draw parallel and stacked networks"
 "FAILED","failed"
 "MAJOR_GAME_UPDATE","Major game update detected. Mod is now inactive."
 "CHOOSE_LANGUAGE","Choose language"

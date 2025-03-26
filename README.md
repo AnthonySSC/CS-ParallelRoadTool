@@ -1,7 +1,7 @@
 # CS-ParallelRoadTool
 A mod that allows players to easily draw parallel/stacked roads in Cities: Skylines.
 
-**Tested on version 1.18.1-f3**
+**Tested on version 1.19.2-f3**
 
 ## Features
 - Limitless parallel/stacked configurations: you can choose any network (not only roads!) and distances (both horizontal and vertical) to easily create every layout that you want
