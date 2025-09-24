@@ -23,7 +23,7 @@ public sealed class Mod : PatcherMod<UIOptionsPanel, PatcherBase>, IUserMod
     /// <summary>
     ///     Minimum minor version that is compatible with the mod.
     /// </summary>
-    private const string CompatibleVersion = "1.19";
+    //private const string CompatibleVersion = "1.19";
 
     /// <summary>
     ///     Simplified name, used for file-system operations.
@@ -68,6 +68,7 @@ public sealed class Mod : PatcherMod<UIOptionsPanel, PatcherBase>, IUserMod
 #endif
 
         // Disable mod if version isn't compatible.
+        /*
         if (!BuildConfig.applicationVersion.StartsWith(CompatibleVersion))
         {
             Logging.Error("invalid game version detected!");
@@ -88,6 +89,7 @@ public sealed class Mod : PatcherMod<UIOptionsPanel, PatcherBase>, IUserMod
             // Don't do anything else - no options panel hook, no Harmony patching.
             return;
         }
+        */
 
         // All good - continue as normal.
         base.OnEnabled();
